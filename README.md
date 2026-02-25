@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Ruhafzo Khusravbekova (You can just call me Ruha <3)
 
 <!--
 **kh-ruhafzo/kh-ruhafzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

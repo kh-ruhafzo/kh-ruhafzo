@@ -5,7 +5,7 @@
 
 <img src="https://i.pinimg.com/originals/07/3a/5e/073a5ef9a64d02ff62ac53c63eb7fa4b.gif" width="200"/>
 
-> *"probably debugging something over green tea"* 🧋
+>*"probably debugging something over green tea"* 🧋
 
 
 </div>

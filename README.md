@@ -76,21 +76,8 @@ My Personal Website (using **Three.js** and **Blender**)
 
 ---
 
-<div align="center">
+<div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ruhafzo&show_icons=true&theme=nightowl&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1a0533&border_color=7c3aed)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ruhafzo&layout=compact&theme=nightowl&title_color=c084fc&text_color=e9d5ff&bg_color=1a0533&border_color=7c3aed)
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/7d2938166299f061e8784d169c996614/87b6107f9c212579-24/s400x600/6909249704e6d97c729e846175e533f0ca533f81.gifv" width="150" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ruhafzo&show_icons=true&theme=default)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kh-ruhafzo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-ruhafzo&layout=compact&theme=tokyonight" />
-</p>
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=kh-ruhafzo&show_icons=true&theme=catppuccin_latte&hide_border=true)
-</div>

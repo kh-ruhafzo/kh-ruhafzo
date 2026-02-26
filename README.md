@@ -62,7 +62,7 @@ My Personal Website (using **Three.js** and **Blender**)
 
 <div align="left">
 
-### ୨ৎ connect with me
+### ୨ৎ connect with me ₍^. .^₎⟆
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh-ruhafzo/)
 [![Email](https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh.ruhafzo@gmail..com)
@@ -70,18 +70,6 @@ My Personal Website (using **Three.js** and **Blender**)
 
 <img src="https://media.tenor.com/S3FK79HNiasAAAAC/minecraft-cozy.gif" width="180"/>
 
-*thanks for stopping by — feel free to explore! 🪄*
 
 </div>
-
----
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khRuhafzo&show_icons=true&theme=default)
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/khRuhafzo/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="160" />
-  <img src="https://raw.githubusercontent.com/khRuhafzo/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="160" />
-</p>
 

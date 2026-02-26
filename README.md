@@ -78,6 +78,10 @@ My Personal Website (using **Three.js** and **Blender**)
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh-ruhafzo&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khRuhafzo&show_icons=true&theme=default)
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/khRuhafzo/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="160" />
+  <img src="https://raw.githubusercontent.com/khRuhafzo/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="160" />
+</p>
 
